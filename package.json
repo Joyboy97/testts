@@ -1,7 +1,7 @@
 {
   "name": "testts",
   "version": "0.1.0",
-  "homepage": "https://Joyboy97.github.io/testts",
+  "homepage": "https://github.io/Joyboy97/testts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
