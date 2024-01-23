@@ -29,6 +29,6 @@ jobs:
 
     - name: Deploy to GitHub Pages
       run: |
-        git config user.name $MY_NAME
-        git config user.email $MY_EMAIL
+        git config user.name "$MY_NAME"
+        git config user.email "$MY_EMAIL"
         npx gh-pages -d build
